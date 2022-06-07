@@ -49,7 +49,6 @@ minikube service mongo-express-service
 
 // Access the desired service ip from the browser
 minikube service --all
-
 ```
 ## Basic commands
 ### Encode base64 using terminal
